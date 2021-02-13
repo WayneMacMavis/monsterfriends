@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/github.io/monsterfriends/static/css/main.daaf4a6a.chunk.css",
-    "main.js": "/github.io/monsterfriends/static/js/main.543c0d40.chunk.js",
-    "main.js.map": "/github.io/monsterfriends/static/js/main.543c0d40.chunk.js.map",
+    "main.js": "/github.io/monsterfriends/static/js/main.d874a529.chunk.js",
+    "main.js.map": "/github.io/monsterfriends/static/js/main.d874a529.chunk.js.map",
     "runtime-main.js": "/github.io/monsterfriends/static/js/runtime-main.ec37f7af.js",
     "runtime-main.js.map": "/github.io/monsterfriends/static/js/runtime-main.ec37f7af.js.map",
     "static/css/2.31461e4f.chunk.css": "/github.io/monsterfriends/static/css/2.31461e4f.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.31461e4f.chunk.css",
     "static/js/2.7cc6249a.chunk.js",
     "static/css/main.daaf4a6a.chunk.css",
-    "static/js/main.543c0d40.chunk.js"
+    "static/js/main.d874a529.chunk.js"
   ]
 }
